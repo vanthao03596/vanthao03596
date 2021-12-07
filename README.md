@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![vanthao03596's github stats](https://github-readme-stats.vercel.app/api?username=vanthao03596)](https://github.com/vanthao03596)
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/vanthao03596/count.svg" />
+</p>
