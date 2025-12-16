@@ -19,8 +19,3 @@ Here are some ideas to get you started:
 |-|-|
 
 ![](https://activity-graph.herokuapp.com/graph?username=vanthao03596)
-
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/vanthao03596/count.svg" />
-</p>
